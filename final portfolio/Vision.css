@@ -1,0 +1,141 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5%;
+}
+h1{margin-top: 0px  !important}
+h1{font-size: 3vw !important}
+h1{text-align: center !important}
+
+a{font-size: 2vw !important}
+a{color:white !important}
+a{float:left !important} 
+.New{
+    background-color: gray;
+}
+div {
+    width: 19.35vw;
+    height: 19.35vw;
+    position: absolute;
+    border-radius: 50%;
+  }
+  p{
+      text-align: center;
+      padding-top: 3.90vw;
+      font-size: 1.5vw;
+  }
+  #a{
+    text-align: center;
+    padding-top: 9.35vw;
+  }
+  #b{
+    text-align: center;
+      padding-top:4.68vw; 
+      color: black; 
+  }
+  
+  .innerw {
+    left: 32.42vw;
+    top:5.85vw;
+    overflow: hidden;
+  }
+  
+  .innerw2 {
+    left: 13.28vw;
+    top: 0.38vw;
+    overflow: hidden;
+  }
+  
+  .inner {
+    left: -7.08vw;
+    top: 7.81vw;
+    background-color: palegreen;
+    z-index: 20;
+  }
+  .inner:hover {
+    background-color: green;
+  }
+  
+  #midw1 {
+    left:32.42vw;
+    top: 5.46vw;
+    overflow: hidden;
+    color: #000;
+  }
+  #mid1 {
+    left: 13.28vw;
+    top: 0vw;
+  }
+  #midw2 {
+    left: 31.6vw;
+    top:4.68vw;
+    overflow: hidden;
+    color: #000;
+    
+  }
+  #c{
+      left: 6.5vw;
+      top: 1.95vw;
+      overflow: visible;
+      position: relative;
+      font-size: 1vw;
+  }
+  #d{
+    left: -1.95vw;
+    top: 10.15vw;
+    position: relative;
+    font-size: 1vw;   
+  }
+  #e{
+    left: 0.78vw;
+    top: 10.15vw;
+    position: relative;
+    font-size: 1vw; 
+  }
+  #mid2 {
+    left: 7.42vw;
+    top: 9.35vw;
+  }
+  #midw3 {
+  left: 46.8vw;
+  top: 4.68vw;
+  overflow: hidden;
+  color: #000;
+
+}
+#mid3 {
+  left: -8.2vw;
+  top: 9.35vw;
+}
+.mid {
+  background-color: lightblue;
+  z-index: 15;
+}
+.mid:hover {
+  background-color:navy;
+}
+
+#outer1 {
+  left: 31.25vw;
+  top: 4.68vw;
+}
+
+#outer2 {
+  left: 46.09vw;
+  top: 4.68vw;
+}
+#outer3 {
+  left: 39.06vw;
+  top: 15.62vw;
+}
+.outer {
+  background-color: lightskyblue;
+  z-index: 10;
+}
+.outer:hover {
+  background-color: darkcyan;
+}
+p{z-index: 30 !important}
+

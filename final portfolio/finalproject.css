@@ -1,0 +1,19 @@
+.collapse navbar-collapse{
+    float: right;
+
+}
+.navbar{margin-bottom: 0px !important}
+.container{ 
+    text-align:center;
+    color: black;
+}
+
+.top-left{
+    position: absolute;
+    top: 12%;
+    left: 1em;
+    font-family: cursive;
+    font-weight: bold;
+    font-size:1vw;
+}
+h1{font-size: 2vw !important}
