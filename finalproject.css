@@ -17,3 +17,12 @@
     font-size:1vw;
 }
 h1{font-size: 2vw !important}
+
+    img{
+        position:absolute !important}
+
+   img { z-index:-1 !important}
+
+     img{width:100% !important}
+
+    img {height:100% !important}
